@@ -2,7 +2,7 @@ from openai import OpenAI
 
 client = OpenAI()
 
-user_prompt = input("Prompt:")
+user_prompt: str = input("Prompt:")
 system_prompt = "Limit your answer to one sentence. Pretend you are a cat."
 
 response = client.responses.create(
