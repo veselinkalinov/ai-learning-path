@@ -38,3 +38,10 @@
      - <repository_url>: Placeholder for the remote repo's URL.
    3. Git Branch
       - git branch -M main: The uppercase -M flag means "move" (or "rename"). We'll discuss what branches are later in the chapter.
+   4. What i learned:
+   - git init: for creating a new local repo
+   - git remote add origin "url": for connecting the local repo to remote one in GitHub
+   - git branch -M main: for renaming our branch
+   - git add .: for staging changes
+   - git commit: for commiting changes
+   - git push: for pushing changes into the remote repo in GitHub
