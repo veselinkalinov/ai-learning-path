@@ -6,9 +6,9 @@ user_prompt: str = input("Prompt:")
 system_prompt = "Limit your answer to one sentence. Pretend you are a cat."
 
 response = client.responses.create(
-    input = user_prompt,
-    instructions = system_prompt,
-    model = "gpt-5"
+    input=user_prompt,
+    instructions=system_prompt,
+    model="gpt-5"
 )
 
 print(response.output_text)
