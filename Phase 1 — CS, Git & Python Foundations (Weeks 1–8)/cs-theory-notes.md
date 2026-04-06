@@ -23,10 +23,18 @@
      - Conditionals (if, else if etc.)
      - Boolean expresions - questions you ask yourself (1 or 0 answer only)
 5. ## Started studying the Git and GitHub Roadmap
+   1. What is version control system?:
+      - VCS is a tool that helps us track our progress and work together on a project.
 
-- What is version control system?:
-  - VCS is a tool that helps us track our progress and work together on a project.
-- What problem does Git solve?:
-  - It is a distrubuted free, open source, fast, scalabale VCS
+   2. What problem does Git solve?:
+      - It is a distrubuted free, open source, fast, scalabale VCS
 
 6. ## Started the Codedex Git and GitHub course
+   1. git init - initializes a new Git repo (local repo)
+   2. The git remote command manages connections to remote repos. We can add a connection by:
+   - git remote add origin <repository_url>
+     - add: Add a new remote connection.
+     - origin: Give a nickname for the remote repo's URL (origin is a common one).
+     - <repository_url>: Placeholder for the remote repo's URL.
+   3. Git Branch
+      - git branch -M main: The uppercase -M flag means "move" (or "rename"). We'll discuss what branches are later in the chapter.
