@@ -29,7 +29,7 @@
    2. What problem does Git solve?:
       - It is a distrubuted free, open source, fast, scalabale VCS
 
-6. ## Started the Codedex Git and GitHub course
+6. ## Did the whole Codedex Git and GitHub course
    1. git init - initializes a new Git repo (local repo)
    2. The git remote command manages connections to remote repos. We can add a connection by:
    - git remote add origin <repository_url>
