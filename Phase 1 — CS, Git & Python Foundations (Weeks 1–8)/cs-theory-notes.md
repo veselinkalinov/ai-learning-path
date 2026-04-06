@@ -46,4 +46,4 @@
    - git commit -m "Message": for commiting changes
    - git push: for pushing changes into the remote repo in GitHub
    - git clone: You clone someone elses repo on your local machine and are able to make changes on the remote one
-   - forkingg: "fork" from a repository allows you to freely experiment with changes without affecting the original project
+   - forking: "fork" from a repository allows you to freely experiment with changes without affecting the original project
