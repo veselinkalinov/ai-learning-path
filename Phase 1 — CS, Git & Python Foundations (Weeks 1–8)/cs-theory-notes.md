@@ -43,5 +43,7 @@
    - git remote add origin "url": for connecting the local repo to remote one in GitHub
    - git branch -M main: for renaming our branch
    - git add .: for staging changes
-   - git commit: for commiting changes
+   - git commit -m "Message": for commiting changes
    - git push: for pushing changes into the remote repo in GitHub
+   - git clone: You clone someone elses repo on your local machine and are able to make changes on the remote one
+   - forking: "fork" from a repository allows you to freely experiment with changes without affecting the original project
