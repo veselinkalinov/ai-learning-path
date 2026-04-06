@@ -47,3 +47,7 @@
    - git push: for pushing changes into the remote repo in GitHub
    - git clone: You clone someone elses repo on your local machine and are able to make changes on the remote one
    - forking: "fork" from a repository allows you to freely experiment with changes without affecting the original project
+   - git branch "branch-name",git checkout "branch-name" - used when working in a team, as it allows multiple people to work on different features simultaneously without interfering with each other's work
+   - git pull - updates the local branch that you are currently working on, whether that be the default main branch, or a branch that you created with new updates happened on the remote one
+   - git merge <branch-name> - for merging main and your personal branch after done with a project
+   - pull request - allows you to suggest changes to the repository and allows you to create edits from one branch to another
