@@ -2,7 +2,7 @@
 
 1. ## Watched Physics of AI by ScienceClic English in YT
 2. ## Took a look at the CS Roadmap in roadmap.sh
-   - Important stuff that i want to learn in depth:
+   - Important stuff that i want to learn in depth in this phase/week:
      - Data Structures: Array, Graph, Heap, List, Tree, Stack etc.
      - Asymptotic Notation: Big O, Big Theta, Big Omega etc.
      - Common Algorithms: Sorting, Tree, Recursion, Graphs, Caches etc.
